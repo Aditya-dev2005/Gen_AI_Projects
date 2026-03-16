@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A comprehensive collection of production-ready AI applications showcasing modern Generative AI capabilities
 
@@ -600,12 +599,6 @@ Contributions are welcome. Please:
 3. Commit changes (git commit -m 'Add amazing feature')
 4. Push to branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
