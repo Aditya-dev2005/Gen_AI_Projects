@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+streamlit
+python-dotenv
+PyPDF2
+openai
+pdf2image
+Pillow
